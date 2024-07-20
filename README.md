@@ -48,13 +48,13 @@ speed	        | number	| 4	        | 1 - 10
 ## Browser Compatibility
 
 ```
-Browser             | Version
+Browser                 | Version
 ---------------------------------------------------
-Chrome              | 51+
-Firefox             | 52+
-Safari              | 10.1+
-Edge                | 79+
-Internet Explorer	| Not supported
+Chrome                  | 51+
+Firefox                 | 52+
+Safari                  | 10.1+
+Edge                    | 79+
+Internet Explorer       | Not supported
 ---------------------------------------------------
 ```
 
