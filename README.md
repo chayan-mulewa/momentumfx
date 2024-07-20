@@ -17,17 +17,22 @@ Check out a live demo of MomentumFX in action:
 
 To install MomentumFX, use npm:
 
-```bash
+```
 npm install momentumfx --save
+
+```
 
 ## Usage
 
 To get started with MomentumFX, you need to import and use the useSmoothScroll hook : 
 
+```
 import { useSmoothScroll } from 'momentumfx';
 
 const [smoothScroll] = useSmoothScroll();
 smoothScroll(0.04, 0.02, 4);
+
+```
 
 ## Available Options for smoothScroll()
 
