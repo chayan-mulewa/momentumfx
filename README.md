@@ -39,9 +39,9 @@ smoothScroll(0.04, 0.02, 4);
 ```
 Parameter       | Type      | Default   | Value
 ---------------------------------------------------
-momentum	    | number	| 0.04	    | 0.01 - 1
+momentum        | number	| 0.04	    | 0.01 - 1
 touchMomentum   | number	| 0.02	    | 0.01 - 1
-speed	        | number	| 4	        | 1 - 10
+speed	        | number	| 4         | 1 - 10
 ---------------------------------------------------
 ```
 
