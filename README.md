@@ -36,15 +36,18 @@ smoothScroll(0.04, 0.02, 4);
 
 ## Available Options for smoothScroll()
 
+```
 Parameter	    | Type	    | Default	| Value
 ---------------------------------------------------
 momentum	    | number	| 0.04	    | 0.01 - 1
 touchMomentum   | number	| 0.02	    | 0.01 - 1
 speed	        | number	| 4	        | 1 - 10
 ---------------------------------------------------
+```
 
 ## Browser Compatibility
 
+```
 Browser             | Version
 ---------------------------------------------------
 Chrome              | 51+
@@ -53,6 +56,7 @@ Safari              | 10.1+
 Edge                | 79+
 Internet Explorer	| Not supported
 ---------------------------------------------------
+```
 
 ## Created By
 
